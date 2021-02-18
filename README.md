@@ -29,7 +29,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### Notes
-
+When I setup collection view, the posters didn't show up as I expected. I strugglled for a while and was able to fix the error with the help from TA.
 
 
 ## Flix Part 1
